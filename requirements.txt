@@ -1,0 +1,12 @@
+pydantic-settings
+python-dotenv
+
+python-docx
+pandas
+
+chromadb
+sentence-transformers
+
+ollama
+
+gradio
